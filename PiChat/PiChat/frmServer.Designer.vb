@@ -32,6 +32,7 @@ Partial Class frmServer
         'txtHistorial
         '
         Me.txtHistorial.BackColor = System.Drawing.Color.White
+        Me.txtHistorial.Cursor = System.Windows.Forms.Cursors.Default
         Me.txtHistorial.Location = New System.Drawing.Point(12, 27)
         Me.txtHistorial.Multiline = True
         Me.txtHistorial.Name = "txtHistorial"
