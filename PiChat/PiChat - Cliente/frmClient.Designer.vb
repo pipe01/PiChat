@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class frmMain
+Partial Class frmClient
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -24,13 +24,13 @@ Partial Class frmMain
     Private Sub InitializeComponent()
         Me.SuspendLayout()
         '
-        'Form1
+        'frmClient
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(505, 345)
-        Me.Name = "Form1"
-        Me.Text = "PiChat - Servidor"
+        Me.ClientSize = New System.Drawing.Size(542, 352)
+        Me.Name = "frmClient"
+        Me.Text = "Form1"
         Me.ResumeLayout(False)
 
     End Sub
